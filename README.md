@@ -1,0 +1,1 @@
+This repo contains a simple example of a common type error in TypeScript that can lead to unexpected runtime behavior. The example demonstrates how the TypeScript compiler does not prevent the addition of a number and a string, despite this operation being invalid and leading to runtime error.  The solution shows how to type check your code to solve the issue.
